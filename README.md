@@ -1,11 +1,10 @@
 # SHRED A BILLION - Внутриигровое мод-меню, стартовое сохранение и таблица Cheat Engine (.CT)
 
-Русское внутриигровое мод-меню (`v1.0`), стилизованное под интерфейс **SHRED A BILLION**, готовое стартовое сохранение и таблица Cheat Engine (Steam AppID `5472080`, проверено на версии `1.0.23`). Достижения Steam продолжают открываться, а вернуть оригинальные файлы можно в один клик.
+Русское мод-меню прямо в игре (`v1.0`), стартовое сохранение с деньгами и таблица Cheat Engine для **SHRED A BILLION** (Steam AppID `5472080`, версия `1.0.23`, Windows и Steam Deck). Достижения в Steam не блокируются.
 
 ## Скачать
-- **[Страница релиза на Boosty (мод-меню v1.0 с автосохранением и QoL - ранний доступ 48 часов, далее открыто всем)](https://boosty.to/cd_tixo/posts/91615b98-617b-4e4e-8056-baf6eca9ae71?utm_source=github&utm_medium=readme&utm_campaign=shred_a_billion)**
-- **[Каталог всех проектов автора на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=shred_a_billion)**
-- **[GitHub Releases (открытая таблица .CT и стартовое сохранение уже доступны)](https://github.com/neoru-droid/shred-a-billion-mod-ru/releases)**
+- **[Полное мод-меню v1.0 на Boosty (ранний доступ до 27 ноября, далее открыто всем)](https://boosty.to/cd_tixo/posts/91615b98-617b-4e4e-8056-baf6eca9ae71?utm_source=github&utm_medium=readme&utm_campaign=shred_a_billion)**
+- **[Таблица .CT и стартовое сохранение на GitHub Releases](https://github.com/neoru-droid/shred-a-billion-mod-ru/releases)**
 
 Поддерживаются **Windows 10 / 11** и **Steam Deck / Linux (Proton)**.
 
@@ -32,10 +31,10 @@
 - `Alt+7` - Скидка `-95%` на все улучшения
 - `Alt+8` - Множитель опыта (`Выкл` / `x2` / `x10` / `x100`)
 
-### Вкладка «Инструменты и QoL»
+### Вкладка «Инструменты и удобства»
 - Открытие всех инструментов сразу (ведро, лопата, пылесос)
 - Супер-магнит купюр на хранилище и вечные бустеры с автопродлением
-- QoL ускорение времени игры (`x1.0` / `x1.5` / `x2.0`) без искажения прогресса
+- Ускорение времени игры (`x1.0` / `x1.5` / `x2.0`)
 - Ускорение бега `x2.5`, режим полёта, сквозь стены (`Noclip`) и чистый экран без HUD
 
 ### Вкладка «Настройки и инфо»
@@ -43,4 +42,14 @@
 - Быстрый сброс переключателей и проверка обновлений на Boosty
 
 ## Таблица Cheat Engine (.CT) и стартовое сохранение
-- В **GitHub Releases** доступны открытая таблица `ShredABillion_RU_v1.0.CT` и архив стартового сохранения `ShredABillion-Save-v1.0.zip` (`%USERPROFILE%\AppData\LocalLow\LightTriadGames\SHRED A BILLION\save.json`).
+- В **GitHub Releases** лежат таблица `ShredABillion_RU_v1.0.CT` и стартовое сохранение `ShredABillion-Save-v1.0.zip` (`%USERPROFILE%\AppData\LocalLow\LightTriadGames\SHRED A BILLION\save.json`).
+
+## Обратная связь и проекты автора
+
+Заметили баг после патча игры - пишите в [Issues](https://github.com/neoru-droid/shred-a-billion-mod-ru/issues).
+
+Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=shred_a_billion) · [профиль на GitHub](https://github.com/neoru-droid)
+
+Лицензия: [MIT](LICENSE)
+
+Автор: `neoru-droid`
