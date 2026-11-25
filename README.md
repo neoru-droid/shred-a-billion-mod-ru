@@ -1,6 +1,6 @@
 # SHRED A BILLION - Внутриигровое мод-меню, стартовое сохранение и таблица Cheat Engine (.CT)
 
-Русское мод-меню прямо в игре (`v1.0`), стартовое сохранение с деньгами и таблица Cheat Engine для **SHRED A BILLION** (Steam AppID `5472080`, версия `1.0.23`, Windows и Steam Deck). Достижения в Steam не блокируются.
+Русское мод-меню прямо в игре (`v1.0`), стартовое сохранение с деньгами и таблица Cheat Engine для **SHRED A BILLION** (Steam AppID `5472080`, версия `1.0.23`, Windows и Steam Deck).
 
 ## Скачать
 - **[Полное мод-меню v1.0 на Boosty (ранний доступ до 27 ноября, далее открыто всем)](https://boosty.to/cd_tixo/posts/91615b98-617b-4e4e-8056-baf6eca9ae71?utm_source=github&utm_medium=readme&utm_campaign=shred_a_billion)**
