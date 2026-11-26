@@ -1,58 +1,29 @@
-# SHRED A BILLION - Внутриигровое мод-меню, стартовое сохранение и таблица Cheat Engine (.CT)
+# SHRED A BILLION - Мод-меню, сохранение и таблица .CT
 
-Мод-меню на русском (`v1.0`), готовое стартовое сохранение на 10 000 000 $ и таблица Cheat Engine для **SHRED A BILLION** (версия `1.0.23`, Windows и Steam Deck).
+10 000 000 $ со старта, золотые слитки, очки навыков, все инструменты, магнит купюр и ускорение работы + таблица `.CT` (`v1.0`, версия `1.0.23`, Windows и Steam Deck).
 
 ## Скачать
-- **[Полное мод-меню v1.0 на Boosty (ранний доступ до 27 ноября: подписка от 120 ₽ со скидкой 20% или разовая покупка поста за 120 ₽, далее открыто всем)](https://boosty.to/cd_tixo/posts/91615b98-617b-4e4e-8056-baf6eca9ae71?utm_source=github&utm_medium=readme&utm_campaign=shred_a_billion)**
+- **[Полное мод-меню v1.0 на Boosty (ранний доступ до 27 ноября от 120 ₽, далее открыто всем)](https://boosty.to/cd_tixo/posts/91615b98-617b-4e4e-8056-baf6eca9ae71?utm_source=github&utm_medium=readme&utm_campaign=shred_a_billion)**
 - **[Таблица .CT и стартовое сохранение на GitHub Releases](https://github.com/neoru-droid/shred-a-billion-mod-ru/releases)**
+- **Заказ своей игры:** в очередь - `350 ₽`, вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game)
 
-Поддерживаются **Windows 10 / 11** и **Steam Deck / Linux (Proton)**.
+![SHRED A BILLION - Мод-меню](cover_wide.png)
 
-![Обложка SHRED A BILLION](cover_wide.png)
-
-## Установка мод-меню
+## Установка
 1. **Windows:** закройте игру, распакуйте архив и запустите `ShredABillion-Trainer-Setup.exe` -> **«Установить мод-меню»**.
-2. **Steam Deck / Linux (Proton):** распакуйте архив и выполните `sh install-steamdeck.sh`, затем добавьте параметр запуска Steam: `WINEDLLOVERRIDES="winhttp=n,b" %command%`.
-3. **Управление в игре:** клавиша `F1` или `F2` (либо `L3 + R3` на геймпаде) открывает оверлей; `Alt+1..8` запускают быстрые команды.
-4. **Удаление:** запустите установщик повторно и нажмите **«Удалить мод-меню»**.
+2. **Steam Deck / Linux (Proton):** распакуйте архив, выполните `sh install-steamdeck.sh` и добавьте в параметры запуска Steam: `WINEDLLOVERRIDES="winhttp=n,b" %command%`.
+3. **В игре:** `F1` / `F2` или `L3 + R3` открывает окно, `Alt+1..8` запускают быстрые команды. Удаление - через тот же установщик.
 
-## Возможности внутриигрового мод-меню
+## Функции мод-меню
+![Мод-меню на деньги и навыки](screenshots/mod_1.png)
+![Инструменты, магнит и ускорение](screenshots/mod_2.png)
 
-![Мод-меню SHRED A BILLION - вкладка 1](screenshots/mod_1.png)
+- **Ресурсы и прогресс:** `Alt+1` `+1 000 000 $`, `Alt+2` `+100 000 000 $`, `Alt+3` `+1 000` золотых слитков, `Alt+4` `+10` уровней, `Alt+5` `+50` очков навыков, `Alt+6` множитель дохода (`x2 / x10 / x100`), `Alt+7` скидка `-95%`, `Alt+8` множитель опыта (`x2 / x10 / x100`).
+- **Инструменты и режимы:** открыть ведро, лопату и пылесос, супер-магнит купюр, вечные бустеры, ускорение времени (`x1.5 / x2.0`), бег `x2.5`, полёт, `Noclip`, скрытие HUD и автосохранение настроек.
 
-![Мод-меню SHRED A BILLION - вкладка 2](screenshots/mod_2.png)
+## Таблица .CT и стартовое сохранение
+В **GitHub Releases** уже доступны таблица `ShredABillion_RU_v1.0.CT` и сохранение на `10 000 000 $` (`ShredABillion-Save-v1.0.zip` -> `%USERPROFILE%\AppData\LocalLow\LightTriadGames\SHRED A BILLION\save.json`).
 
-### Вкладка «Ресурсы и прогресс»
-- `Alt+1` - Добавить +1 000 000 $
-- `Alt+2` - Добавить +100 000 000 $
-- `Alt+3` - Добавить +1 000 золотых слитков
-- `Alt+4` - Добавить +10 уровней
-- `Alt+5` - Добавить +50 очков навыков
-- `Alt+6` - Множитель дохода (`Выкл` / `x2` / `x10` / `x100`)
-- `Alt+7` - Скидка `-95%` на все улучшения
-- `Alt+8` - Множитель опыта (`Выкл` / `x2` / `x10` / `x100`)
+Нашли баг после патча - пишите в [Issues](https://github.com/neoru-droid/shred-a-billion-mod-ru/issues).
 
-### Вкладка «Инструменты и режимы»
-- Открытие всех инструментов сразу (ведро, лопата, пылесос)
-- Супер-магнит купюр на хранилище и вечные бустеры с автопродлением
-- Ускорение времени игры (`x1.0` / `x1.5` / `x2.0`)
-- Ускорение бега `x2.5`, режим полёта, проход сквозь стены (`Noclip`) и скрытие HUD
-
-### Вкладка «Настройки и инфо»
-- Автосохранение выбранных множителей и режимов между запусками игры
-- Быстрый сброс переключателей и проверка обновлений на Boosty
-
-## Таблица Cheat Engine (.CT) и стартовое сохранение
-- В **GitHub Releases** уже доступны таблица `ShredABillion_RU_v1.0.CT` и архив стартового сохранения `ShredABillion-Save-v1.0.zip` (`%USERPROFILE%\AppData\LocalLow\LightTriadGames\SHRED A BILLION\save.json`).
-
-## Обратная связь и проекты автора
-
-Заметили баг после патча игры - пишите в [Issues](https://github.com/neoru-droid/shred-a-billion-mod-ru/issues).
-
-Предложить свою игру в приоритетную очередь (350 ₽) или заказать разбор вне очереди (750 ₽) можно на [странице Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game).
-
-Все проекты автора: [сайт каталога](https://neoru-droid.github.io/) · [каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=shred_a_billion) · [профиль на GitHub](https://github.com/neoru-droid)
-
-Лицензия: [MIT](LICENSE)
-
-Автор: `neoru-droid`
+[Сайт каталога](https://neoru-droid.github.io/) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=shred_a_billion) · [GitHub](https://github.com/neoru-droid) · [MIT](LICENSE) · Автор: `neoru-droid`
