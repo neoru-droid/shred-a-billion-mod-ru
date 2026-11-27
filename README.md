@@ -3,9 +3,9 @@
 10 000 000 $ со старта, золотые слитки, очки навыков, все инструменты, магнит купюр и ускорение работы + таблица `.CT` (`v1.0`, версия `1.0.23`, Windows и Steam Deck).
 
 ## Скачать
-- **[Полное мод-меню v1.0 на Boosty (ранний доступ до 27 ноября от 120 ₽, далее открыто всем)](https://boosty.to/cd_tixo/posts/91615b98-617b-4e4e-8056-baf6eca9ae71?utm_source=github&utm_medium=readme&utm_campaign=shred_a_billion)**
-- **[Таблица .CT и стартовое сохранение на GitHub Releases](https://github.com/neoru-droid/shred-a-billion-mod-ru/releases)**
-- **Заказ своей игры:** в очередь - `350 ₽`, вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo?utm_source=github&utm_medium=readme&utm_campaign=order_game)
+- **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/shred-a-billion-mod-ru/releases/download/v1.0.0/ShredABillion-Trainer-RU-v1.0.zip)** · [Таблица .CT и другие файлы на GitHub Releases](https://github.com/neoru-droid/shred-a-billion-mod-ru/releases)
+- **[Страница игры и все архивы на Boosty](https://boosty.to/cd_tixo/posts/91615b98-617b-4e4e-8056-baf6eca9ae71)**
+- **Ранний доступ и заказ своей игры:** новинки на 7 дней раньше от `120 ₽`, своя игра в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo)
 
 ![SHRED A BILLION - Мод-меню](cover_wide.png)
 
