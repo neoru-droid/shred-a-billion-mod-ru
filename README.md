@@ -5,7 +5,7 @@
 ## Скачать
 - **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/shred-a-billion-mod-ru/releases/download/v1.0.0/ShredABillion-Trainer-RU-v1.0.zip)** · [Таблица .CT и другие файлы на GitHub Releases](https://github.com/neoru-droid/shred-a-billion-mod-ru/releases)
 - **[Страница игры и все архивы на Boosty](https://boosty.to/cd_tixo/posts/91615b98-617b-4e4e-8056-baf6eca9ae71)**
-- **Ранний доступ и заказ своей игры:** новинки на 7 дней раньше от `120 ₽`, своя игра в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo)
+- **Ранний доступ и заказ своей игры:** новинки на 7 дней раньше (`120 ₽/мес на все релизы или разовый пост 150 ₽`), своя игра в очередь - `350 ₽`, разбор вне очереди - `750 ₽` на [Boosty](https://boosty.to/cd_tixo)
 
 ![SHRED A BILLION - Мод-меню](cover_wide.png)
 
@@ -26,4 +26,4 @@
 
 Нашли баг после патча - пишите в [Issues](https://github.com/neoru-droid/shred-a-billion-mod-ru/issues).
 
-[Сайт каталога](https://neoru-droid.github.io/) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec?utm_source=github&utm_medium=readme&utm_campaign=shred_a_billion) · [GitHub](https://github.com/neoru-droid) · [MIT](LICENSE) · Автор: `neoru-droid`
+[Сайт каталога](https://neoru-droid.github.io/) · [Каталог на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec) · [Telegram](https://t.me/neoru_droid) · [GitHub](https://github.com/neoru-droid) · [MIT](LICENSE) · Автор: `neoru-droid`
